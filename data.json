@@ -1,27 +1,15 @@
 {
-  // 最新的应用版本号 Latest version of the application
-  "latest_version": "1.2.3",
-  // 是否需要更新 Whether an update is required
+  "latest_version": "0.8.3",
   "update_required": true,
-  // 更新的下载地址 URL for downloading the update
-  "update_url": "https://example.com/update",
-  // 更新公告 Announcement for the update
-  "announcement": "This update includes bug fixes and performance improvements.",
-  // 更新者 Person who performed the update
-  "updated_by": "John Doe",
-  // 更新时间 Time when the update was performed
-  "updated_at": "2021-05-01T12:00:00Z",
-  // 更新的差异 Differences between the current and previous versions
+  "update_url": "https://discord.com/channels/1069057220802781265/1111957637169418281/1113471775355981926",
+  "announcement": "Anyone having issue with HWID can use this build, you just need to open it, get the HWID, send it to verify bot in ⁠micah-bot-verify",
+  "updated_by": "strigger",
+  "updated_at": "2023-06-01T12:00:00Z",
   "update_diff": {
-    // 添加的功能 New features that were added
-    "added_features": ["New feature 1", "New feature 2"],
-    // 修改的功能 Features that were modified
-    "modified_features": ["Modified feature 1"],
-    // 删除的功能 Features that were deleted
-    "deleted_features": ["Deleted feature 1"],
-    // 更新文件的总大小 Total size of the update files
-    "total_size": "10 MB"
+    "added_features": ["DEFAULT MENU BUTTON is TAB"],
+    "modified_features": ["change hwid format"],
+    "deleted_features": ["old hwid format"],
+    "total_size": "22.92 MB"
   },
-  // 兼容的版本 Versions that are compatible with the latest version
-  "compatible_versions": ["1.2.2", "1.2.1", "1.2.0"]
+  "compatible_versions": ["null", "null", "null"]
 }
