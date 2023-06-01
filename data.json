@@ -11,5 +11,5 @@
     "deleted_features": ["old hwid format"],
     "total_size": "22.92 MB"
   },
-  "compatible_versions": ["null", "null", "null"]
+  "compatible_versions": ["0.8.2", "null", "null"]
 }
