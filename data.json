@@ -9,7 +9,7 @@
     "added_features": ["Restore debug section"],
     "modified_features": ["Fix free camera","Fix esp crash","Fix paimon","Fix texture changer","Fix some minor bugs"],
     "deleted_features": ["null"],
-    "total_size": "21.90 MB"
+    "total_size": "23.40 MB"
   },
-  "compatible_versions": ["0.8.4", "0.8.3", "0.8.2"]
+  "compatible_versions": ["0.8.4", "0.8.3", "null"]
 }
