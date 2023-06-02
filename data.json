@@ -1,15 +1,15 @@
 {
-  "latest_version": "0.8.4",
+  "latest_version": "0.8.5",
   "update_required": true,
-  "update_url": "https://discord.com/channels/1069057220802781265/1111957637169418281/1113782706296340500",
-  "announcement": "MENU BUTTON IS TAB",
+  "update_url": "https://github.com/Korepi/keyauth-cpp-library/releases/tag/F1",
+  "announcement": "Fix stuck on loading application",
   "updated_by": "strigger",
-  "updated_at": "2023-06-01 19:00:00 ",
+  "updated_at": "2023-06-02 11:00:00 ",
   "update_diff": {
     "added_features": ["Restore debug section"],
     "modified_features": ["Fix free camera","Fix esp crash","Fix paimon","Fix texture changer","Fix some minor bugs"],
     "deleted_features": ["null"],
     "total_size": "21.90 MB"
   },
-  "compatible_versions": ["0.8.3", "null", "null"]
+  "compatible_versions": ["0.8.4", "0.8.3", "0.8.2"]
 }
