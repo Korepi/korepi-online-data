@@ -7,7 +7,7 @@
   "updated_at": "2023-06-03 11:00:00 ",
   "update_diff": {
     "added_features": ["Added missing interactive map entries", "Added hotkey to some setting options", "Added trishiraite filter for auto destroy"],
-    "modified_features": ["Fix esprender error","Fix noclip issue","Fix gamespeed error","Fix texture changer","Fix some minor bugs"],
+    "modified_features": ["Fix esprender error","Fix noclip issue","Fix gamespeed error"],
     "deleted_features": ["null"],
     "total_size": "± 23.0 MB"
   },
