@@ -1,15 +1,15 @@
 {
-  "latest_version": "0.8.5",
+  "latest_version": "0.8.6",
   "update_required": true,
-  "update_url": "https://github.com/Korepi/keyauth-cpp-library/releases/tag/F1",
-  "announcement": "Fix stuck on loading application",
+  "update_url": "https://github.com/Korepi/keyauth-cpp-library/releases/tag/F2",
+  "announcement": "Bug fixing",
   "updated_by": "strigger",
-  "updated_at": "2023-06-02 11:00:00 ",
+  "updated_at": "2023-06-03 11:00:00 ",
   "update_diff": {
-    "added_features": ["Restore debug section"],
-    "modified_features": ["Fix free camera","Fix esp crash","Fix paimon","Fix texture changer","Fix some minor bugs"],
+    "added_features": ["Added missing interactive map entries", "Added hotkey to almost all tick features", "Added trishiraite filter for auto destroy"],
+    "modified_features": ["Fix esprender error","Fix noclip issue","Fix gamespeed error","Fix texture changer","Fix some minor bugs"],
     "deleted_features": ["null"],
-    "total_size": "23.40 MB"
+    "total_size": "± 23.0 MB"
   },
-  "compatible_versions": ["0.8.4", "0.8.3", "null"]
+  "compatible_versions": ["0.8.4", "0.8.3", "0.8.5"]
 }
