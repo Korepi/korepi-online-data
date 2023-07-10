@@ -1,15 +1,14 @@
 {
-  "latest_version": "0.8.6",
+  "latest_version": "0.8.7",
   "update_required": true,
-  "update_url": "https://github.com/Korepi/keyauth-cpp-library/releases/tag/F2",
-  "announcement": "Bug fixing",
+  "update_url": "https://github.com/Korepi/keyauth-cpp-library/releases/tag/F5",
+  "announcement": "3.8 update",
   "updated_by": "strigger",
-  "updated_at": "2023-06-03 11:00:00 ",
+  "updated_at": "2023-07-10 11:00:00 ",
   "update_diff": {
-    "added_features": ["Added missing interactive map entries", "Added hotkey to some setting options", "Added trishiraite filter for auto destroy"],
-    "modified_features": ["Fix esprender error","Fix noclip issue","Fix gamespeed error"],
+    "added_features": ["3.8 update", "Added gamepad hotkey (combination not work)"],
     "deleted_features": ["null"],
     "total_size": "± 23.0 MB"
   },
-  "compatible_versions": ["0.8.4", "0.8.3", "0.8.5"]
+  "compatible_versions": ["0.8.7"]
 }
