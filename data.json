@@ -1,14 +1,14 @@
 {
-  "latest_version": "0.8.8",
+  "latest_version": "0.8.9",
   "update_required": true,
-  "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.8.8",
-  "announcement": "Fix Entry Error Code",
+  "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.8.9",
+  "announcement": "与F6版本一致",
   "updated_by": "Micah",
-  "updated_at": "2023-7-15 19:12",
+  "updated_at": "2023-7-15 19:37",
   "update_diff": {
-    "added_features": ["Fix Entry Error Code", "Repair Chinese garbled code","fix esp crash"],
-    "deleted_features": ["null"],
-    "total_size": "30.4 MB"
+    "added_features": ["优化esp体验", "交互式地图修复"],
+    "deleted_features": ["崩溃问题修复"],
+    "total_size": "30.6 MB"
   },
-  "compatible_versions": ["null"]
+  "compatible_versions": ["0.8.8"]
 }
