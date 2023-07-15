@@ -2,13 +2,13 @@
   "latest_version": "0.8.9",
   "update_required": true,
   "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.8.9",
-  "announcement": "Consistent with F6 version",
+  "announcement": "与F6版本一致",
   "updated_by": "Micah",
   "updated_at": "2023-7-15 19:37",
   "update_diff": {
-    "added_features": ["Optimize esp experience", "Interactive map fixes"],
-    "deleted_features": ["Crash fixes","测试中文"],
+    "added_features": ["优化透视流畅性", "交互式地图修复"],
+    "deleted_features": ["各种崩溃修复","测试中文"],
     "total_size": "30.6 MB"
   },
-  "compatible_versions": ["0.8.8"]
+  "compatible_versions": ["null"]
 }
