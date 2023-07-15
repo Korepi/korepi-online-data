@@ -4,11 +4,11 @@
   "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.8.8",
   "announcement": "Fix Entry Error Code",
   "updated_by": "Micah",
-  "updated_at": "2023-7-15 16:29",
+  "updated_at": "2023-7-15 19:12",
   "update_diff": {
-    "added_features": ["Fix Entry Error Code", "Repair Chinese garbled code"],
-    "deleted_features": ["Currently there is a bug that exiting the world after using Perspective will cause the game to crash, waiting for a fix."],
-    "total_size": "32.8 MB"
+    "added_features": ["Fix Entry Error Code", "Repair Chinese garbled code","fix esp crash"],
+    "deleted_features": ["null"],
+    "total_size": "30.4 MB"
   },
   "compatible_versions": ["null"]
 }
