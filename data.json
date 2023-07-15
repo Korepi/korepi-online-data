@@ -1,14 +1,14 @@
 {
-  "latest_version": "0.8.7",
+  "latest_version": "0.8.8",
   "update_required": true,
-  "update_url": "https://github.com/Korepi/keyauth-cpp-library/releases/tag/F5",
-  "announcement": "3.8 update",
-  "updated_by": "strigger",
-  "updated_at": "2023-07-10 11:00:00 ",
+  "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.8.8",
+  "announcement": "修复进门错误代码",
+  "updated_by": "Micah",
+  "updated_at": "2023-7-15 16:29",
   "update_diff": {
-    "added_features": ["3.8 update", "Added gamepad hotkey (combination not work)"],
-    "deleted_features": ["null"],
-    "total_size": "± 23.0 MB"
+    "added_features": ["修复进门错误代码", "修复中文乱码"],
+    "deleted_features": ["目前存在bug,使用透视后退出副本世界会导致游戏崩溃,等待修复"],
+    "total_size": "32.8 MB"
   },
-  "compatible_versions": ["0.8.7"]
+  "compatible_versions": ["null"]
 }
