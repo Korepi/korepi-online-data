@@ -2,12 +2,12 @@
   "latest_version": "0.8.8",
   "update_required": true,
   "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.8.8",
-  "announcement": "修复进门错误代码",
+  "announcement": "Fix Entry Error Code",
   "updated_by": "Micah",
   "updated_at": "2023-7-15 16:29",
   "update_diff": {
-    "added_features": ["修复进门错误代码", "修复中文乱码"],
-    "deleted_features": ["目前存在bug,使用透视后退出副本世界会导致游戏崩溃,等待修复"],
+    "added_features": ["Fix Entry Error Code", "Repair Chinese garbled code"],
+    "deleted_features": ["Currently there is a bug that exiting the world after using Perspective will cause the game to crash, waiting for a fix."],
     "total_size": "32.8 MB"
   },
   "compatible_versions": ["null"]
