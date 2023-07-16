@@ -10,5 +10,5 @@
     "deleted_features": ["各种崩溃修复","测试中文"],
     "total_size": "30.6 MB"
   },
-  "compatible_versions": ["null"]
+  "compatible_versions": ["0.8.8"]
 }
