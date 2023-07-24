@@ -2,11 +2,11 @@
   "latest_version": "0.9.0",
   "update_required": true,
   "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.0",
-  "announcement": "升级防检测功能",
+  "announcement": "升级防检测功能 Upgrade anti-detection function",
   "updated_by": "Micah",
-  "updated_at": "2023-7-22 18:48",
+  "updated_at": "2023-7-24 20:38",
   "update_diff": {
-    "added_features": ["绕过反作弊能力升级", "添加AOCK模式关闭保护驱动(可手动关闭)","去除注入特征代码","b服支持(也许)","优化体验"],
+    "added_features": ["绕过反作弊能力升级 Upgraded ability to bypass anti-cheating", "添加AOCK模式关闭保护驱动(可自动选择) Add AOCK mode off protection driver (can be selected automatically)","去除注入特征代码 Remove injected feature code","bilibili服务器支持 bilibili server support"],
     "deleted_features": ["各种崩溃修复","存在崩溃情况"],
     "total_size": "30.2 MB"
   },
