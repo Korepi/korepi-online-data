@@ -1,14 +1,14 @@
 {
-  "latest_version": "0.9.0",
+  "latest_version": "0.9.1",
   "update_required": true,
-  "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.0",
-  "announcement": "升级防检测功能 Upgrade anti-detection function",
+  "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.1",
+  "announcement": "修复自动雷灵 fixed the Auto Electro seelie.",
   "updated_by": "Micah",
-  "updated_at": "2023-7-24 20:38",
+  "updated_at": "2023-7-26 22:50",
   "update_diff": {
-    "added_features": ["绕过反作弊能力升级 Upgraded ability to bypass anti-cheating", "添加AOCK模式关闭保护驱动(可自动选择) Add AOCK mode off protection driver (can be selected automatically)","去除注入特征代码 Remove injected feature code","bilibili服务器支持 bilibili server support"],
-    "deleted_features": ["各种崩溃修复","存在崩溃情况"],
+    "added_features": ["修复自动雷灵 fixed the Auto Electro seelie", "优化注入程序 Optimizing the injection process"],
+    "deleted_features": ["存在崩溃情况"],
     "total_size": "30.2 MB"
   },
-  "compatible_versions": ["0.8.8","0.8.9"]
+  "compatible_versions": ["0.8.8","0.8.9","0.9.0"]
 }
