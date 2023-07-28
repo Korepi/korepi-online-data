@@ -1,14 +1,14 @@
 {
-  "latest_version": "0.9.1",
+  "latest_version": "0.9.2",
   "update_required": true,
-  "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.1",
-  "announcement": "修复自动雷灵 fixed the Auto Electro seelie.",
+  "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.2",
+  "announcement": "添加新功能 Add New Feature ",
   "updated_by": "Micah",
-  "updated_at": "2023-7-26 22:50",
+  "updated_at": "2023-7-28 18:50",
   "update_diff": {
-    "added_features": ["修复自动雷灵 fixed the Auto Electro seelie", "优化注入程序 Optimizing the injection process"],
-    "deleted_features": ["存在崩溃情况"],
-    "total_size": "30.2 MB"
+    "added_features": ["一键切换传送文件夹", "智能排序传送坐标文件","修复多次拾取地脉花bug"],
+    "deleted_features": ["默认取消aock模式,如有需要到配置文件里设置"],
+    "total_size": "30.51 MB"
   },
-  "compatible_versions": ["0.8.8","0.8.9","0.9.0"]
+  "compatible_versions": ["0.8.8","0.8.9","0.9.0","0.9.1"]
 }
