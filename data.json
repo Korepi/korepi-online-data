@@ -1,14 +1,14 @@
 {
-  "latest_version": "0.9.3",
+  "latest_version": "0.9.4",
   "update_required": true,
-  "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.3",
-  "announcement": "修复部分传送节点失效情况,Fix some teleportation node failures",
+  "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.4",
+  "announcement": "优化启动速度,用户体验",
   "updated_by": "Micah",
-  "updated_at": "2023-7-31 16:50",
+  "updated_at": "2023-8-1 21:50",
   "update_diff": {
-    "added_features": ["修复有时地图传送失效,Fixed sometimes the map teleportation doesn't work", "修复部分自定义传送节点失效,Fix some custom teleportation nodes not working","为sponsor添加显示剩余传送任务总时间,Add display of total time remaining for teleportation tasks to the sponsor"],
-    "deleted_features": ["取消一直的版本公告弹窗,改为一版本弹一次,Eliminate the version announcement popup, and replace it with a version popup."],
-    "total_size": "30.5 MB (32,018,960 字节)"
+    "added_features": ["为sponsor添加显示剩余传送任务总时间使用体验优化", "快速选择传送文件夹并加载","未发现传送卡顿问题"],
+    "deleted_features": ["删除自定义插值"],
+    "total_size": "29.1 MB (30,606,352 字节)"
   },
-  "compatible_versions": ["0.9.2"]
+  "compatible_versions": ["0.9.2","0.9.3"]
 }
