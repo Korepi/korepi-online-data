@@ -6,8 +6,8 @@
   "updated_by": "Micah",
   "updated_at": "2023-8-20 2:50",
   "update_diff": {
-    "added_features": ["修复上帝视角问题", "补充部分翻译","添加md5校验"],
-    "deleted_features": ["删除自定义插值"],
+    "added_features": ["修复上帝模式问题", "补充部分翻译","添加md5校验"],
+    "deleted_features": ["删除tp错误"],
     "total_size": "30.4mb"
   },
   "compatible_versions": ["null","null"]
