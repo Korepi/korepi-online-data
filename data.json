@@ -1,14 +1,14 @@
 {
-  "latest_version": "0.9.4",
+  "latest_version": "0.9.5",
   "update_required": true,
-  "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.4",
-  "announcement": "优化启动速度,用户体验",
+  "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.5",
+  "announcement": "更新4.0",
   "updated_by": "Micah",
-  "updated_at": "2023-8-1 21:50",
+  "updated_at": "2023-8-20 2:50",
   "update_diff": {
-    "added_features": ["为sponsor添加显示剩余传送任务总时间使用体验优化", "快速选择传送文件夹并加载","未发现传送卡顿问题"],
+    "added_features": ["修复上帝视角问题", "补充部分翻译","添加md5校验"],
     "deleted_features": ["删除自定义插值"],
-    "total_size": "29.1 MB (30,606,352 字节)"
+    "total_size": "30.4mb"
   },
-  "compatible_versions": ["0.9.2","0.9.3"]
+  "compatible_versions": ["null","null"]
 }
