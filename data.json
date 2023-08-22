@@ -1,14 +1,14 @@
 {
-  "latest_version": "0.9.5",
+  "latest_version": "0.9.6",
   "update_required": true,
-  "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.5",
-  "announcement": "更新4.0",
+  "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.6",
+  "announcement": "修复中文翻译",
   "updated_by": "Micah",
-  "updated_at": "2023-8-20 2:50",
+  "updated_at": "2023-8-22 17:50",
   "update_diff": {
-    "added_features": ["修复上帝模式问题", "补充部分翻译","添加md5校验"],
+    "added_features": ["修复中文翻译", "添加移动水印","优化传送任务显示"],
     "deleted_features": ["删除tp错误"],
-    "total_size": "30.4mb"
+    "total_size": "30.6 mb"
   },
   "compatible_versions": ["null","null"]
 }
