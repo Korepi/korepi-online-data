@@ -1,14 +1,14 @@
 {
-  "latest_version": "0.9.6",
+  "latest_version": "0.9.7",
   "update_required": true,
-  "update_url": "https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.6",
-  "announcement": "修复中文翻译",
+  "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v0.9.7",
+  "announcement": "更新4.0.1",
   "updated_by": "Micah",
-  "updated_at": "2023-8-22 17:50",
+  "updated_at": "2023-8-27 5:50",
   "update_diff": {
-    "added_features": ["修复中文翻译", "添加移动水印","优化传送任务显示"],
+    "added_features": ["添加强制传送", "修复中文崩溃","添加双开模式"],
     "deleted_features": ["删除tp错误"],
-    "total_size": "30.6 mb"
+    "total_size": "31.0 mb"
   },
   "compatible_versions": ["null","null"]
 }
