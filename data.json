@@ -1,14 +1,14 @@
 {
-  "latest_version": "0.9.7",
+  "latest_version": "0.9.8",
   "update_required": true,
-  "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v0.9.7",
-  "announcement": "更新/update 4.0.1",
+  "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v0.9.8",
+  "announcement": "修复bug/fix bug",
   "updated_by": "Micah",
-  "updated_at": "2023-8-27 5:50",
+  "updated_at": "2023-8-29 0:59",
   "update_diff": {
-    "added_features": ["添加强制传送/Add forced teleportation", "修复中文崩溃","添加双开模式/Add multi-open mode"],
-    "deleted_features": ["删除tp错误"],
-    "total_size": "31.0 mb"
+    "added_features": ["修复体力问题", "添加活动自动传送","优化双开模式","修复回弹问题"],
+    "deleted_features": ["删除错误的图片"],
+    "total_size": "31.8 mb"
   },
-  "compatible_versions": ["null","null"]
+  "compatible_versions": ["0.9.6"]
 }
