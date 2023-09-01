@@ -1,14 +1,14 @@
 {
-  "latest_version": "0.9.8.1",
+  "latest_version": "0.9.8.2",
   "update_required": true,
   "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v0.9.8",
   "announcement": "修复bug/fix bug",
   "updated_by": "Micah",
-  "updated_at": "2023-8-30 12:59",
+  "updated_at": "2023-9-1 12:59",
   "update_diff": {
-    "added_features": ["修复体力问题", "添加锚点自动激活","优化双开模式","修复回弹问题"],
+    "added_features": ["修复体力问题", "添加锚点自动激活","优化双开模式","修复回弹问题","修复热键问题"],
     "deleted_features": ["删除错误的图片"],
-    "total_size": "31.8 mb"
+    "total_size": "31.5 mb"
   },
   "compatible_versions": ["null"]
 }
