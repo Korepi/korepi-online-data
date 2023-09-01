@@ -10,5 +10,5 @@
     "deleted_features": ["删除错误的图片"],
     "total_size": "31.5 mb"
   },
-  "compatible_versions": ["null"]
+  "compatible_versions": ["0.9.8.1"]
 }
