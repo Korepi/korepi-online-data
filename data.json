@@ -1,7 +1,7 @@
 {
   "latest_version": "0.9.8.4",
   "update_required": true,
-  "update_url": "https://ghproxy.com/https://github.com/Cotton-Buds/calculator/releases/download/v0.9.8/v0.9.8.3.zip",
+  "update_url": "https://github.com/Cotton-Buds/calculator/releases/download/v0.9.8",
   "announcement": "修复bug/fix bug",
   "updated_by": "Micah",
   "updated_at": "2023-9-3 12:59",
