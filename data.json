@@ -1,14 +1,14 @@
 {
-  "latest_version": "0.9.8.4",
+  "latest_version": "0.9.8.5",
   "update_required": true,
   "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v0.9.8",
   "announcement": "修复bug/fix bug",
   "updated_by": "Micah",
-  "updated_at": "2023-9-3 12:59",
+  "updated_at": "2023-9-11 12:59",
   "update_diff": {
-    "added_features": ["修复热键问题","调参","修复版本验证服务器问题"],
+    "added_features": ["优化显示","修复体力重置","更新翻译"],
     "deleted_features": ["无"],
-    "total_size": "31.5 mb"
+    "total_size": "32.0 mb"
   },
-  "compatible_versions": ["0.9.8.3"]
+  "compatible_versions": ["0.9.8.4"]
 }
