@@ -1,14 +1,14 @@
 {
-  "latest_version": "0.9.9",
+  "latest_version": "0.9.9.1",
   "update_required": true,
   "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v0.9.9",
-  "announcement": "更新4.1.0",
+  "announcement": "0.9.9.1 修复部分bug",
   "updated_by": "Micah",
-  "updated_at": "2023-10-1 14:03",
+  "updated_at": "2023-10-3 00:03",
   "update_diff": {
     "added_features": ["更新4.1.0","更换注入方式","更换签名方式"],
     "deleted_features": ["无"],
-    "total_size": "36.1 mb"
+    "total_size": "39.3 mb"
   },
   "compatible_versions": ["0.9.9"]
 }
