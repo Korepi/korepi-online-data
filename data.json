@@ -8,7 +8,7 @@
   "update_diff": {
     "added_features": ["更新4.1.0","更换注入方式","更换签名方式","添加了怪物替换","添加了额外视觉设定","添加了区域限制取消"],
     "deleted_features": ["部分提示"],
-    "total_size": "39.3 mb"
+    "total_size": "51.8 mb"
   },
   "compatible_versions": ["0.9.9"]
 }
