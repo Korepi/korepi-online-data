@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.0.0",
+  "latest_version": "1.0.0.1",
   "update_required": true,
   "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v1.0.0",
-  "announcement": "1.0.0.0更新 添加新功能",
+  "announcement": "1.0.0.0更新 撤销版本,先使用0.9.9.2",
   "updated_by": "Micah",
   "updated_at": "2023-10-14 00:03",
   "update_diff": {
@@ -10,5 +10,5 @@
     "deleted_features": ["部分提示"],
     "total_size": "52.0 mb"
   },
-  "compatible_versions": ["null"]
+  "compatible_versions": ["0.9.9.2"]
 }
