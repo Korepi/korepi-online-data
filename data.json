@@ -1,14 +1,14 @@
 {
-  "latest_version": "0.9.9.2",
+  "latest_version": "1.0.0.0",
   "update_required": true,
-  "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v0.9.9",
-  "announcement": "0.9.9.2_fix1更新 添加新功能",
+  "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v1.0.0",
+  "announcement": "1.0.0.0更新 添加新功能",
   "updated_by": "Micah",
-  "updated_at": "2023-10-3 00:03",
+  "updated_at": "2023-10-14 00:03",
   "update_diff": {
-    "added_features": ["更新4.1.0","更换注入方式","更换签名方式","添加了怪物替换","添加了额外视觉设定","添加了区域限制取消","修复自动对话,仙灵等bug"],
+    "added_features": ["添加远程工具等新功能","替换怪物等等"],
     "deleted_features": ["部分提示"],
-    "total_size": "54.3 mb"
+    "total_size": "52.0 mb"
   },
   "compatible_versions": ["null"]
 }
