@@ -1,14 +1,14 @@
 {
   "latest_version": "1.0.0.1",
   "update_required": true,
-  "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v1.0.0",
-  "announcement": "1.0.0.0更新 撤销版本,先使用0.9.9.2",
+  "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v1.0.1",
+  "announcement": "1.0.0.1更新 添加元素光环",
   "updated_by": "Micah",
-  "updated_at": "2023-10-14 00:03",
+  "updated_at": "2023-10-14 17:03",
   "update_diff": {
-    "added_features": ["添加远程工具等新功能","替换怪物等等"],
-    "deleted_features": ["部分提示"],
-    "total_size": "52.0 mb"
+    "added_features": ["添加元素光环","替换怪物等等"],
+    "deleted_features": ["部分风险功能"],
+    "total_size": "51.9 mb"
   },
-  "compatible_versions": ["0.9.9.2"]
+  "compatible_versions": ["null"]
 }
