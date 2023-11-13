@@ -1,14 +1,14 @@
 {
-  "latest_version": "1.0.0.1",
+  "latest_version": "1.1.0.0",
   "update_required": true,
-  "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v1.0.1",
-  "announcement": "1.0.0.1更新 添加元素光环",
+  "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v1.1.0",
+  "announcement": "1.1.0.0更新 更新4.2.0",
   "updated_by": "Micah",
-  "updated_at": "2023-10-14 17:03",
+  "updated_at": "2023-11-13 12:03",
   "update_diff": {
-    "added_features": ["添加元素光环","替换怪物等等"],
+    "added_features": ["实体召唤","节点快速解锁","具体公告查看https://github.com/Cotton-Buds/calculator/releases/tag/v1.1.0"],
     "deleted_features": ["部分风险功能"],
-    "total_size": "51.9 mb"
+    "total_size": "54.4 mb"
   },
   "compatible_versions": ["null"]
 }
