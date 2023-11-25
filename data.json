@@ -1,14 +1,14 @@
 {
-  "latest_version": "1.1.0.0",
+  "latest_version": "1.1.1.0",
   "update_required": true,
-  "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v1.1.0",
-  "announcement": "1.1.0.0更新 更新4.2.0",
+  "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v1.1.1",
+  "announcement": "1.1.1.0更新 添加功能",
   "updated_by": "Micah",
-  "updated_at": "2023-11-13 12:03",
+  "updated_at": "2023-11-25 12:03",
   "update_diff": {
-    "added_features": ["实体召唤","节点快速解锁","具体公告查看https://github.com/Cotton-Buds/calculator/releases/tag/v1.1.0"],
+    "added_features": ["具体公告查看https://github.com/Cotton-Buds/calculator/releases/tag/v1.1.1"],
     "deleted_features": ["部分风险功能"],
-    "total_size": "54.4 mb"
+    "total_size": "57.6 mb"
   },
-  "compatible_versions": ["null"]
+  "compatible_versions": ["1.1.0.0"]
 }
