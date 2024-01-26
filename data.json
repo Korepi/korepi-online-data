@@ -1,14 +1,25 @@
 {
-  "latest_version": "1.1.2.1",
-  "update_required": true,
-  "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v1.1.2",
-  "announcement": "1.1.2.1更新 更新4.3",
-  "updated_by": "Micah",
-  "updated_at": "2023-12-31 12:03",
-  "update_diff": {
-    "added_features": ["具体公告查看https://github.com/Cotton-Buds/calculator/releases/tag/v1.1.2"],
-    "deleted_features": ["部分风险功能"],
-    "total_size": "51.6 mb"
-  },
-  "compatible_versions": ["1.1.2.0"]
+    "msg": "操作成功",
+    "code": 200,
+    "data": {
+        "latest_version": "1.1.2.1",
+        "update_required": true,
+        "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v1.1.2",
+        "announcement": "1.1.2.1更新 更新4.3",
+        "updated_by": "Micah",
+        "updated_at": "2023-12-31 12:03",
+        "update_diff": {
+            "added_features": [
+                "具体公告查看https://github.com/Cotton-Buds/calculator/releases/tag/v1.1.2"
+            ],
+            "deleted_features": [
+                "部分风险功能"
+            ],
+            "total_size": "51.6 mb"
+        },
+        "compatible_versions": [
+            "1.1.2.0"
+        ]
+    },
+    "signature": "708d3ad8b3a2347925a41cd3e357a700339d00da1bedd7568f93a8f51288ecef"
 }
