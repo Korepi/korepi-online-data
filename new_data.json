@@ -7,10 +7,10 @@
         "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v1.1.2",
         "announcement": "测试是否能获取到更新的数据",
         "updated_by": "Micah",
-        "updated_at": "2023-12-31 12:03",
+        "updated_at": "2024-02-04 01:03",
         "update_diff": {
             "added_features": [
-                "具体公告查看https://github.com/Cotton-Buds/calculator/releases/tag/v1.1.2"
+                "测试"
             ],
             "deleted_features": [
                 "部分风险功能"
