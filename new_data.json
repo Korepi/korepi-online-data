@@ -5,7 +5,7 @@
         "latest_version": "1.1.2.1",
         "update_required": true,
         "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v1.1.2",
-        "announcement": "1.1.2.1更新 更新4.3",
+        "announcement": "测试是否能获取到更新的数据",
         "updated_by": "Micah",
         "updated_at": "2023-12-31 12:03",
         "update_diff": {
