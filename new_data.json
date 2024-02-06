@@ -2,24 +2,45 @@
     "msg": "操作成功",
     "code": 200,
     "data": {
-        "latest_version": "1.1.2.1",
+        "latest_version": "1.2.0.0",
         "update_required": true,
-        "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v1.1.2",
-        "announcement": "测试是否能获取到更新的数据",
-        "updated_by": "Micah",
-        "updated_at": "2024-02-04 01:03",
+        "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v1.2.0",
+        "announcement": "4.4 UPDATE",
+        "updated_by": "Strigger & Micah",
+        "updated_at": "2024-02-06 18:00",
         "update_diff": {
             "added_features": [
-                "测试"
+                "Updated to 4.4",
+                "Changes in features and subscription",
+                "Adjusted startup notice (previously scam warning)",
+                "Added MHYPBase bypass (",
+                "Fixed random crash caused by ESP",
+                "Fixed FOV Changer",
+                "Fixed Dive Boost",
+                "Added 4.4 ESP",
+                "Added 4.4 Interactive Map",
+                "Added Fix Stuck Blackscreen button if you are stuck after using Auto Talk",
+                "Added Select Last Dialog option in Auto Talk",
+                "升级至4.4版本",
+                "功能和订阅变更",
+                "调整了启动通知（之前是诈骗警告）",
+                "添加了MHYPBase绕过功能（仅限订阅用户）",
+                "修复了ESP引起的随机崩溃",
+                "修复了FOV变化器",
+                "修复了潜水加速",
+                "添加了4.4版本ESP",
+                "添加了4.4版本交互地图",
+                "如果使用自动对话后卡住，添加了修复卡在黑屏上的按钮",
+                "在自动对话中添加了选择上次对话选项"
             ],
             "deleted_features": [
-                "部分风险功能"
+                "Deleted Texture Changer",
+                "删除了纹理变化器"
             ],
-            "total_size": "51.6 mb"
+            "total_size": "55 MB"
         },
         "compatible_versions": [
-            "1.1.2.0"
         ]
     },
-    "signature": "ea901af4d8173050bc31dd6b93055019baf104a1bd84693c42620c21e10499fd"
+    "signature": "a30fa824b7cd2614811898e2ad64cb4c6fcf3793b497dda3082be6494f34fb7a"
 }
