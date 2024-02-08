@@ -5,9 +5,9 @@
         "latest_version": "1.2.0.1",
         "update_required": true,
         "update_url": "https://github.com/Cotton-Buds/calculator/releases",
-        "announcement": "bug fixes and improvements",
+        "announcement": "bug fixes and improvements,fix ssl error",
         "updated_by": "Strigger & Micah",
-        "updated_at": "2024-02-08 20:00",
+        "updated_at": "2024-02-098 02:30",
         "update_diff": {
             "added_features": [
                 "Updated to 4.4",
@@ -43,11 +43,11 @@
                 "Deleted Texture Changer",
                 "删除了纹理变化器"
             ],
-            "total_size": "68.3 MB"
+            "total_size": "69.3 MB"
         },
         "compatible_versions": [
-            "1.2.0.0"
+            "null"
         ]
     },
-    "signature": "cab46a69a22d4a601220dddb37fa4d8e9e9518b4af414785750c6c8fd50348a5"
+    "signature": "a5a6b83d38cc6ef99e9edb74b817041c40c095e40e3f25f189669aa2e65d0ebd"
 }
