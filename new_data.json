@@ -2,12 +2,12 @@
     "msg": "操作成功",
     "code": 200,
     "data": {
-        "latest_version": "1.2.0.0",
+        "latest_version": "1.2.0.1",
         "update_required": true,
-        "update_url": "https://github.com/Cotton-Buds/calculator/releases/tag/v1.2.0",
-        "announcement": "4.4 UPDATE",
+        "update_url": "https://github.com/Cotton-Buds/calculator/releases",
+        "announcement": "bug fixes and improvements",
         "updated_by": "Strigger & Micah",
-        "updated_at": "2024-02-06 18:00",
+        "updated_at": "2024-02-08 20:00",
         "update_diff": {
             "added_features": [
                 "Updated to 4.4",
@@ -21,6 +21,9 @@
                 "Added 4.4 Interactive Map",
                 "Added Fix Stuck Blackscreen button if you are stuck after using Auto Talk",
                 "Added Select Last Dialog option in Auto Talk",
+                "Fixed possible network certificate issue (md5 check failed)",
+                "Fixed Custom Teleport Selection",
+                "Fixed some feature bugs",
                 "升级至4.4版本",
                 "功能和订阅变更",
                 "调整了启动通知（之前是诈骗警告）",
@@ -31,16 +34,20 @@
                 "添加了4.4版本ESP",
                 "添加了4.4版本交互地图",
                 "如果使用自动对话后卡住，添加了修复卡在黑屏上的按钮",
-                "在自动对话中添加了选择上次对话选项"
+                "在自动对话中添加了选择上次对话选项",
+                "修复了可能存在的网络证书问题(md5检测失效)",
+                "修复了自定义传送选择问题",
+                "修复了一些功能bug"
             ],
             "deleted_features": [
                 "Deleted Texture Changer",
                 "删除了纹理变化器"
             ],
-            "total_size": "55 MB"
+            "total_size": "68.3 MB"
         },
         "compatible_versions": [
+            "1.2.0.0"
         ]
     },
-    "signature": "a30fa824b7cd2614811898e2ad64cb4c6fcf3793b497dda3082be6494f34fb7a"
+    "signature": "cab46a69a22d4a601220dddb37fa4d8e9e9518b4af414785750c6c8fd50348a5"
 }
