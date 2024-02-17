@@ -2,10 +2,10 @@
     "msg": "获取验证数据成功",
     "code": 200,
     "data": {
-        "latest_version": "1.2.0.2",
+        "latest_version": "1.2.0.1",
         "update_required": true,
         "update_url": "https://github.com/Cotton-Buds/calculator/releases",
-        "announcement": "Fix delivery issues, optimize performance, enhance validation",
+        "announcement": "Temporary fallback version",
         "updated_by": "Strigger & Micah",
         "updated_at": "2024-02-018 05:30",
         "update_diff": {
@@ -22,5 +22,5 @@
             "null"
         ]
     },
-    "signature": "cd2ad420ce09fcdea20c79624a85588ebce44194c8a2b45cb6c7be64454115f2"
+    "signature": "569f39d5e45749c03ec1172975e1cf4bd541f27be9fc2d50087cb70cd82335f8"
 }
