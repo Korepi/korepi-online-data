@@ -1,43 +1,16 @@
 {
-    "msg": "操作成功",
+    "msg": "获取验证数据成功",
     "code": 200,
     "data": {
-        "latest_version": "1.2.0.1",
+        "latest_version": "1.2.0.2",
         "update_required": true,
         "update_url": "https://github.com/Cotton-Buds/calculator/releases",
-        "announcement": "bug fixes and improvements,fix ssl error",
+        "announcement": "Fix delivery issues, optimize performance, enhance validation",
         "updated_by": "Strigger & Micah",
-        "updated_at": "2024-02-098 02:30",
+        "updated_at": "2024-02-018 05:30",
         "update_diff": {
             "added_features": [
-                "Updated to 4.4",
-                "Changes in features and subscription",
-                "Adjusted startup notice (previously scam warning)",
-                "Added MHYPBase bypass (",
-                "Fixed random crash caused by ESP",
-                "Fixed FOV Changer",
-                "Fixed Dive Boost",
-                "Added 4.4 ESP",
-                "Added 4.4 Interactive Map",
-                "Added Fix Stuck Blackscreen button if you are stuck after using Auto Talk",
-                "Added Select Last Dialog option in Auto Talk",
-                "Fixed possible network certificate issue (md5 check failed)",
-                "Fixed Custom Teleport Selection",
-                "Fixed some feature bugs",
-                "升级至4.4版本",
-                "功能和订阅变更",
-                "调整了启动通知（之前是诈骗警告）",
-                "添加了MHYPBase绕过功能（仅限订阅用户）",
-                "修复了ESP引起的随机崩溃",
-                "修复了FOV变化器",
-                "修复了潜水加速",
-                "添加了4.4版本ESP",
-                "添加了4.4版本交互地图",
-                "如果使用自动对话后卡住，添加了修复卡在黑屏上的按钮",
-                "在自动对话中添加了选择上次对话选项",
-                "修复了可能存在的网络证书问题(md5检测失效)",
-                "修复了自定义传送选择问题",
-                "修复了一些功能bug"
+                "Fix delivery issues, optimize performance, enhance validation"
             ],
             "deleted_features": [
                 "Deleted Texture Changer",
@@ -49,5 +22,5 @@
             "null"
         ]
     },
-    "signature": "a5a6b83d38cc6ef99e9edb74b817041c40c095e40e3f25f189669aa2e65d0ebd"
+    "signature": "cd2ad420ce09fcdea20c79624a85588ebce44194c8a2b45cb6c7be64454115f2"
 }
