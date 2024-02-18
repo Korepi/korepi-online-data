@@ -2,12 +2,12 @@
     "msg": "获取验证数据成功",
     "code": 200,
     "data": {
-        "latest_version": "1.2.0.1",
+        "latest_version": "1.2.0.2",
         "update_required": true,
         "update_url": "https://github.com/Cotton-Buds/calculator/releases",
-        "announcement": "Temporary fallback version",
+        "announcement": "v1.2.0.2",
         "updated_by": "Strigger & Micah",
-        "updated_at": "2024-02-018 05:30",
+        "updated_at": "2024-02-18 08:30",
         "update_diff": {
             "added_features": [
                 "Fix delivery issues, optimize performance, enhance validation"
@@ -16,11 +16,11 @@
                 "Deleted Texture Changer",
                 "删除了纹理变化器"
             ],
-            "total_size": "69.3 MB"
+            "total_size": "80.5 MB"
         },
         "compatible_versions": [
             "null"
         ]
     },
-    "signature": "569f39d5e45749c03ec1172975e1cf4bd541f27be9fc2d50087cb70cd82335f8"
+    "signature": "1759bfebb7b38fd6582e3d2f48658cc11d072212e6e1c6f70bf02d3a4ae72e0e"
 }
