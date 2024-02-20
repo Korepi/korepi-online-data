@@ -2,25 +2,32 @@
     "msg": "获取验证数据成功",
     "code": 200,
     "data": {
-        "latest_version": "1.2.0.2",
+        "latest_version": "1.2.1.0",
         "update_required": true,
         "update_url": "https://github.com/Cotton-Buds/calculator/releases",
-        "announcement": "v1.2.0.2",
+        "announcement": "v1.2.1.0  Auto Puzzle!!!",
         "updated_by": "Strigger & Micah",
-        "updated_at": "2024-02-18 08:30",
+        "updated_at": "2024-02-20 19:30",
         "update_diff": {
             "added_features": [
-                "Fix delivery issues, optimize performance, enhance validation"
+                "Added Auto Puzzle",
+                "Fixed Auto Destroy for Sakura Bloom",
+                "Added more filter for Pickup Filter",
+                "Improve ESP Box accuracy",
+                "添加自动解密",
+                "修复了樱花的自动销毁",
+                "为拾取过滤器添加了更多过滤器",
+                "提高了ESP框的准确性"
             ],
             "deleted_features": [
                 "Deleted Texture Changer",
                 "删除了纹理变化器"
             ],
-            "total_size": "80.5 MB"
+            "total_size": "84.7 MB"
         },
         "compatible_versions": [
-            "null"
+            "1.2.0.2"
         ]
     },
-    "signature": "1759bfebb7b38fd6582e3d2f48658cc11d072212e6e1c6f70bf02d3a4ae72e0e"
+    "signature": "66e0bb49d583226a2087f48a3ff3c44861399c9358d1188ef89d3ece03341ddf"
 }
