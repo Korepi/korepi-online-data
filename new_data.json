@@ -5,29 +5,33 @@
         "latest_version": "1.2.1.0",
         "update_required": true,
         "update_url": "https://github.com/Cotton-Buds/calculator/releases",
-        "announcement": "v1.2.1.0  Auto Puzzle!!!",
+        "announcement": "v1.2.1.0_fix1 fix some bugs, add some features, improve some features, and add some new features. v1.2.1.0_fix1 修复了一些错误，添加了一些功能，改进了一些功能，并添加了一些新功能。",
         "updated_by": "Strigger & Micah",
-        "updated_at": "2024-02-20 19:30",
+        "updated_at": "2024-02-23 19:30",
         "update_diff": {
             "added_features": [
                 "Added Auto Puzzle",
                 "Fixed Auto Destroy for Sakura Bloom",
                 "Added more filter for Pickup Filter",
                 "Improve ESP Box accuracy",
+                "Fixed picking bugs",
+                "Fix image flip bug",
                 "添加自动解密",
                 "修复了樱花的自动销毁",
                 "为拾取过滤器添加了更多过滤器",
-                "提高了ESP框的准确性"
+                "提高了ESP框的准确性",
+                "修复了拾取错误",
+                "修复了图像翻转错误"
             ],
             "deleted_features": [
                 "Deleted Texture Changer",
                 "删除了纹理变化器"
             ],
-            "total_size": "84.7 MB"
+            "total_size": "91.7 MB"
         },
         "compatible_versions": [
             "1.2.0.2"
         ]
     },
-    "signature": "66e0bb49d583226a2087f48a3ff3c44861399c9358d1188ef89d3ece03341ddf"
+    "signature": "9fb60338240c3927b00ffc85895a3411a63f2d01a9d9cc1eea1abb4c5719c8f2"
 }
