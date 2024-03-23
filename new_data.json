@@ -2,12 +2,12 @@
     "msg": "操作成功",
     "code": 200,
     "data": {
-        "latest_version": "1.3.0.1",
+        "latest_version": "1.3.0.0",
         "update_required": true,
         "update_url": "https://github.com/Cotton-Buds/calculator/releases",
         "announcement": "4.5",
         "updated_by": "Strigger & Micah",
-        "updated_at": "2024-03-24 01:21",
+        "updated_at": "2024-03-23 20:00",
         "update_diff": {
             "added_features": [
                 "4.5 update",
@@ -25,11 +25,11 @@
                 "解锁圣遗物崩溃",
                 "跳过强化动画被删除"
             ],
-            "total_size": "109 MB"
+            "total_size": "103 MB"
         },
         "compatible_versions": [
             "none"
         ]
     },
-    "signature": "7bc754f2df12b113b4493fb09db43e4bc0a839c53d3922190f1a31ca08f0047a"
+    "signature": "cdbd49014c7b0ca8b714ed2add50fd8e9794b8bb3042ebb588c7c6c1a91c3942"
 }
