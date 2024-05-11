@@ -1,35 +1,26 @@
 {
-    "msg": "操作成功",
+    "msg": "success",
     "code": 200,
     "data": {
-        "latest_version": "1.3.0.1",
+        "latest_version": "1.3.1.0",
         "update_required": true,
         "update_url": "https://github.com/Cotton-Buds/calculator/releases",
-        "announcement": "4.5",
-        "updated_by": "Strigger & Micah",
-        "updated_at": "2024-03-24 01:21",
+        "announcement": "4.6",
+        "updated_by": "Strigger(main) & Micah(auth) & EtoShinya(tech)",
+        "updated_at": "2024-05-11 20:21",
         "update_diff": {
             "added_features": [
-                "4.5 update",
-                "4.5更新原神版本更新"
+                "4.6 update"
             ],
             "deleted_features": [
-                "Auto Fish broken",
-                "Fake Time broken",
-                "FPS Unlock broken in CN",
-                "Unlock Statue broken",
-                "Skip Enchance Animation removed",
-                "自动钓鱼崩溃",
-                "假时间崩溃",
-                "FPS解锁在CN中崩溃",
-                "解锁圣遗物崩溃",
-                "跳过强化动画被删除"
+                "修复所有失效功能",
+                "Restore all malfunctioning features."
             ],
-            "total_size": "109 MB"
+            "total_size": "95.6 MB"
         },
         "compatible_versions": [
             "none"
         ]
     },
-    "signature": "7bc754f2df12b113b4493fb09db43e4bc0a839c53d3922190f1a31ca08f0047a"
+    "signature": "70822351915436d05d436cd621a938ef17f599eeff3ea8c3d5c1ddd5b38f1dcf"
 }
