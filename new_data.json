@@ -2,26 +2,27 @@
     "msg": "success",
     "code": 200,
     "data": {
-        "latest_version": "1.3.1.1",
+        "latest_version": "1.3.1.2",
         "update_required": true,
         "update_url": "https://github.com/Cotton-Buds/calculator/releases",
         "announcement": "4.6 os&cn",
         "updated_by": "Strigger(main) & Micah(auth) & EtoShinya(tech)",
-        "updated_at": "2024-05-14 20:21",
+        "updated_at": "2024-05-15 01:21",
         "update_diff": {
             "added_features": [
                 "4.6 update",
-                "fix cn"
+                "fix cn",
+                "fix 409"
             ],
             "deleted_features": [
                 "修复所有失效功能",
                 "Restore all malfunctioning features."
             ],
-            "total_size": "94.7 MB"
+            "total_size": "76.5 MB"
         },
         "compatible_versions": [
             "none"
         ]
     },
-    "signature": "ceae2206bd975880c9a05ac77cb51bf128b97e952d306f27ef9963cd4b94b185"
+    "signature": "76432ebc32f502773709ff4ff58656bb07f920fa984ce096a7f19ccb98fff3c4"
 }
