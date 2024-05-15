@@ -2,27 +2,26 @@
     "msg": "success",
     "code": 200,
     "data": {
-        "latest_version": "1.3.1.2",
+        "latest_version": "1.3.1.3",
         "update_required": true,
         "update_url": "https://github.com/Cotton-Buds/calculator/releases",
         "announcement": "4.6 os&cn",
         "updated_by": "Strigger(main) & Micah(auth) & EtoShinya(tech)",
-        "updated_at": "2024-05-15 01:21",
+        "updated_at": "2024-05-16 03:21",
         "update_diff": {
             "added_features": [
-                "4.6 update",
-                "fix cn",
-                "fix 409"
+                "fix all 409",
+                "Fix camera issues"
             ],
             "deleted_features": [
                 "修复所有失效功能",
                 "Restore all malfunctioning features."
             ],
-            "total_size": "76.5 MB"
+            "total_size": "78.0 MB"
         },
         "compatible_versions": [
             "none"
         ]
     },
-    "signature": "76432ebc32f502773709ff4ff58656bb07f920fa984ce096a7f19ccb98fff3c4"
+    "sign2": "V4XAGPDh0GCOquiQyLUsTE90voX23qkYZbwc+Pa0qhMAWtKxYozxA/aE0U6BcXk502nZSrtHAXLh3ucIDFUuNX/T9uR+NpJmOirHbAJcH6z/xpzxywCVoGaFdchQ64A0RcxphpTI4bCeCr4mgXYXbIdGWd7+y6hpQ1qGcn9en0Oh9ULG11nL4iC0c4tK6N0zQLYSxmz8dOrhwg4CIkcRxx7Yht+1w/PEo0rR0GkKN3mONibiow2Bv8oSvev4vc0xvNZQ2gdPYzNxfg6ueCv4MXLDffzJ0nCrl8+xVwQs4mYLTYsovfBB/41kNbBoYGbzyTS+HesxTqsuDpU+1/oByg=="
 }
