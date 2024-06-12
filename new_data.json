@@ -2,12 +2,12 @@
     "msg": "success",
     "code": 200,
     "data": {
-        "latest_version": "1.3.1.3",
+        "latest_version": "1.3.2.0",
         "update_required": true,
         "update_url": "https://github.com/Cotton-Buds/calculator/releases",
-        "announcement": "4.6 os&cn",
+        "announcement": "4.7 os&cn",
         "updated_by": "Strigger(main) & Micah(auth) & EtoShinya(tech)",
-        "updated_at": "2024-05-16 03:21",
+        "updated_at": "2024-06-13 00:21",
         "update_diff": {
             "added_features": [
                 "fix all 409",
@@ -17,11 +17,11 @@
                 "修复所有失效功能",
                 "Restore all malfunctioning features."
             ],
-            "total_size": "78.0 MB"
+            "total_size": "124 MB"
         },
         "compatible_versions": [
             "none"
         ]
     },
-    "sign2": "V4XAGPDh0GCOquiQyLUsTE90voX23qkYZbwc+Pa0qhMAWtKxYozxA/aE0U6BcXk502nZSrtHAXLh3ucIDFUuNX/T9uR+NpJmOirHbAJcH6z/xpzxywCVoGaFdchQ64A0RcxphpTI4bCeCr4mgXYXbIdGWd7+y6hpQ1qGcn9en0Oh9ULG11nL4iC0c4tK6N0zQLYSxmz8dOrhwg4CIkcRxx7Yht+1w/PEo0rR0GkKN3mONibiow2Bv8oSvev4vc0xvNZQ2gdPYzNxfg6ueCv4MXLDffzJ0nCrl8+xVwQs4mYLTYsovfBB/41kNbBoYGbzyTS+HesxTqsuDpU+1/oByg=="
+    "sign2": "CCDPv7klKvXwkImpFaE+WfSJxrijj4nKHH5sSOQke2rdEpd+jCkiPMU24HCulrEtEfBQEUF2H7vBAQCbb5C8za5//+b77ccfumA63fFuie9WbeLhAIyq6t+UGpu5Ecfh6iLSNyPFZANTyjs3Cn5uXoiBPKgbczCMVN2fy80uUgVqaGYznWlD6zJYla/oPmuAewnd4AHv0kidNUPu9JQI2d++9+Un+GKbsKveN2LjEsc+SdCUtHCadMuJXcMx8lMCfUkORy6q7md2HcvNBc5EZQHQ+xvBy4GHa6qYs6pOfpdZP25ixuiaYtuLyf9572Fg1R3HS3lueFbhAyKDFvn4VA=="
 }
