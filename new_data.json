@@ -2,26 +2,25 @@
     "msg": "success",
     "code": 200,
     "data": {
-        "latest_version": "1.3.2.0",
+        "latest_version": "1.3.3.0",
         "update_required": true,
         "update_url": "https://github.com/Cotton-Buds/calculator/releases",
-        "announcement": "4.7 os&cn",
-        "updated_by": "Strigger(main) & Micah(auth) & EtoShinya(tech)",
-        "updated_at": "2024-06-13 00:21",
+        "announcement": "4.8 os&cn",
+        "updated_by": "Strigger(main) & Micah(auth) & EtoShinya(update)",
+        "updated_at": "2024-07-24 00:21",
         "update_diff": {
             "added_features": [
-                "fix all 409",
-                "Fix camera issues"
+                "fix fish",
+                "update 4.8"
             ],
             "deleted_features": [
-                "修复所有失效功能",
                 "Restore all malfunctioning features."
             ],
-            "total_size": "124 MB"
+            "total_size": "128 MB"
         },
         "compatible_versions": [
             "none"
         ]
     },
-    "sign2": "CCDPv7klKvXwkImpFaE+WfSJxrijj4nKHH5sSOQke2rdEpd+jCkiPMU24HCulrEtEfBQEUF2H7vBAQCbb5C8za5//+b77ccfumA63fFuie9WbeLhAIyq6t+UGpu5Ecfh6iLSNyPFZANTyjs3Cn5uXoiBPKgbczCMVN2fy80uUgVqaGYznWlD6zJYla/oPmuAewnd4AHv0kidNUPu9JQI2d++9+Un+GKbsKveN2LjEsc+SdCUtHCadMuJXcMx8lMCfUkORy6q7md2HcvNBc5EZQHQ+xvBy4GHa6qYs6pOfpdZP25ixuiaYtuLyf9572Fg1R3HS3lueFbhAyKDFvn4VA=="
+    "sign2": "eMDldspy36kqMIRWWiGE/3J2e6/KAWdC8heSec80zZV8Ck2Z6mesGxGM8hPPkJODChzi8fA6xILl1VdNrZcG7saYa3TL/cyngmiofl0ZO52gepyMqQTY9b91iV1cfPa4SiRaNIag/l/5yAXaCLIyd5SkJ5ie3zu8xw9Pc9UM0CAGcdOO8HlnQNzRyoUtJoGcezdio7rsX/bLPbKC7zx7V1na7y9HULBKjQ1ysDJaRhBFpUthDKD5DZS4zzSWOnST5nc129X/XDDL9H9taRrUwECPnMe1dKjW/dvReKpheimmPLPYr425kTKPUbOh/wVVJuPR0cstrikuDrvxx4JmOw=="
 }
