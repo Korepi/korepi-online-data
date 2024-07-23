@@ -10,13 +10,13 @@
         "updated_at": "2024-07-24 00:21",
         "update_diff": {
             "added_features": [
-                "fix fish",
+                "fix auto fish",
                 "update 4.8"
             ],
             "deleted_features": [
                 "Restore all malfunctioning features."
             ],
-            "total_size": "128 MB"
+            "total_size": "135 MB"
         },
         "compatible_versions": [
             "none"
